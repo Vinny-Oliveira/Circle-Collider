@@ -1,0 +1,1 @@
+To start the circle collider, do not misplace the files of this folder and run index.html.
